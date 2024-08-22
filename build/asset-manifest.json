@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tv_remote/static/css/main.9a86bc73.css",
+    "main.js": "/tv_remote/static/js/main.a45d6220.js",
+    "index.html": "/tv_remote/index.html",
+    "main.9a86bc73.css.map": "/tv_remote/static/css/main.9a86bc73.css.map",
+    "main.a45d6220.js.map": "/tv_remote/static/js/main.a45d6220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a86bc73.css",
+    "static/js/main.a45d6220.js"
+  ]
+}

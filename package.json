@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple TV remote app showcase.",
   "main": "index.js",
-  "homepage": "https://abdi1001.github.io/<your-repo-name>",
+  "homepage": "https://abdi1001.github.io/tv_remote",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
